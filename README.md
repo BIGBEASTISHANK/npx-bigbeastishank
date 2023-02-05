@@ -2,7 +2,7 @@
 
 A geeky way to introduce yourself in terminal!
 
-hit `npx brucemacgary` on your terminal to know more about me!
+hit `npx bigbeastishank` on your terminal to know more about me!
 
 ## Output
 
