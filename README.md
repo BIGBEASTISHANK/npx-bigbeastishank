@@ -19,4 +19,4 @@ hit `npx bigbeastishank` on your terminal to know more about me!
 - Then, publish the package by typing `npm publish`.
 
 ## Credits 
-- [BruceMacGary](https://github.com/brucemacgary) for the making this whole thing.
+- [BruceMacGary](https://github.com/brucemacgary) for the help.
