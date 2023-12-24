@@ -21,7 +21,7 @@ const questions = [
             {
                 name: `Send me an ${chalk.bold("email")}?`,
                 value: () => {
-                    open("mailto:antihack@bigbeastishank.com");
+                    open("mailto:ishank@bigbeastishank.com");
                     console.log("\nThanks for contacting me! :D\n");
                 }
             },
@@ -44,16 +44,16 @@ const questions = [
 
 const data = {
     name: chalk.bold.green("                       BIGBEASTISHANK"),
-    fact: chalk.hex('#ff0000')('Programming is life!'),
+    fact: chalk.hex('#ff0000')('Confussion is part of programming!'),
     github: chalk.hex('#ffac00')("https://bigbeastishank.com/github"),
     discord: chalk.hex('#fff100')("https://bigbeastishank.com/discord"),
-    website: chalk.hex('#0bff00')("https://bigbeastishank.com/spotify"),
+    website: chalk.hex('#0bff00')("https://bigbeastishank.com/"),
     npx: chalk.hex('#00f6ff')("npx bigbeastishank"),
 
     labelFact: chalk.hex('#00f6ff').bold("          Fun Fact:"),
-    labelDiscord: chalk.hex('#0bff00').bold("        Github:"),
-    labelGitHub: chalk.hex('#fff100').bold("         Discord:"),
-    labelWebsite: chalk.hex('#ffac00').bold("        Spotify:"),
+    labelWebsite: chalk.hex('#0bff00').bold("        Website:"),
+    labelGitHub: chalk.hex('#fff100').bold("         Github:"),
+    labelDiscord: chalk.hex('#ffac00').bold("        Discord:"),
     labelCard: chalk.hex('#ff0000').bold("                  Card:")
 };
 
@@ -69,13 +69,11 @@ const me = boxen(
         ``,
         `${data.labelCard}  ${data.npx}`,
         ``,
-        `${chalk.bold("    Hello Goiz! My name is BIGBEASTISHANK aka Ishank")}`,
-        `${chalk.bold("       I am a 16-years-old programmer and hacker.")}`,
-        `${chalk.bold("     I Like to create and destroy stuff at same time!")}`,
-        `${chalk.bold("     I am not an expert in any programming language.")}`,
-        `${chalk.bold("     I am just good at all of the languages (I know).")}`,
-        `${chalk.bold("My theory is bad but my practical is much better then yours")}`,
-        `${chalk.bold("      Wanna talk? we can talk on discord or on mails!")}`,
+        `${chalk.bold("             Hello noob coders! My name is Ishank")}`,
+        `${chalk.bold("     I'm a 17-years-old Frontend Web & Game Developer.")}`,
+        `${chalk.bold(" Apart from making website and games I am also intrested in:")}`,
+        `${chalk.bold("             Computer Networking and Cyber Security")}`,
+        `${chalk.bold("         Wanna talk? we can talk on discord or on mails!")}`,
     ].join("\n"),
     {
         margin: 1,
