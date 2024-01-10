@@ -10,7 +10,7 @@ hit `npx bigbeastishank` on your terminal to know more about me!
 
 ## How to make 
 
-- clone this repository `git clone https://github.com/BIGBEASTISHANK/npx-brucemacgary.git`
+- clone this repository `git clone https://github.com/BIGBEASTISHANK/npx-bigbeastishank.git`
 - `npm i` to install all the packages.
 - Try `node .` to check if everything is fine.
 - Make changes as per your needs.
