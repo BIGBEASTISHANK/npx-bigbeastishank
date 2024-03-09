@@ -26,10 +26,10 @@ const questions = [
                 }
             },
             {
-                name: `Visit my ${chalk.bold("website")} server?`,
+                name: `Want to view my ${chalk.bold("website")}?`,
                 value: () => {
                     open("https://bigbeastishank.com/");
-                    console.log("\nThanks for seeing my site! :D\n");
+                    console.log("\nThanks for visiting my site! :D\n");
                 }
             },
             {
@@ -70,10 +70,10 @@ const me = boxen(
         `${data.labelCard}  ${data.npx}`,
         ``,
         `${chalk.bold("             Hello noob coders! My name is Ishank")}`,
-        `${chalk.bold("     I'm a 17-years-old Frontend Web & Game Developer.")}`,
-        `${chalk.bold(" Apart from making website and games I am also intrested in:")}`,
+        `${chalk.bold("             I'm Opensource Game & Web Developer.")}`,
+        `${chalk.bold("   Apart from making website and games I am also intrested in:")}`,
         `${chalk.bold("             Computer Networking and Cyber Security")}`,
-        `${chalk.bold("         Wanna talk? we can talk on discord or on mails!")}`,
+        `${chalk.bold("         Wanna talk? We can talk on discord or on mails!")}`,
     ].join("\n"),
     {
         margin: 1,
