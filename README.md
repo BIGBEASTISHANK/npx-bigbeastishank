@@ -8,7 +8,7 @@ hit `npx bigbeastishank` on your terminal to know more about me!
 
 <img src="./img/img.png">
 
-## How to make 
+## Make Your Own 
 
 - clone this repository `git clone https://github.com/BIGBEASTISHANK/npx-bigbeastishank.git`
 - `npm i` to install all the packages.
